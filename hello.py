@@ -18,3 +18,9 @@ def add(x , y):
 
 sum = add(3,5)
 print(sum)
+
+def subtract(x , y):
+    return x - y
+
+sub = subtract(8, 5)
+print(sub)
