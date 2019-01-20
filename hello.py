@@ -7,3 +7,8 @@ greetings(name)
 fruits = ["Mango", "Apple", "Grapse"]
 for fruit in fruits:
     print(fruit)
+    
+def product(x , y):
+    return x * y
+result = product(4,5)
+print(result)
